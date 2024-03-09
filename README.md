@@ -67,11 +67,6 @@ Start the server
 ```
 npm start
 ```
-)
-
-
-### Here are some pictures of the web application:
-
 
 
 ## Conclusion
